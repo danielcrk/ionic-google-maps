@@ -2,5 +2,7 @@
   "name": "ionic-google-maps",
   "app_id": "",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
